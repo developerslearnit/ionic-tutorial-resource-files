@@ -1,0 +1,92 @@
+{
+  "categories" : {
+    "-L2Pyxs-PlpO_jmTviFv" : {
+      "name" : "Accessories",
+      "thumb" : "assets/imgs/categories/accessories.png"
+    },
+    "-L2Pz26Ii_798iJsp4s6" : {
+      "name" : "Jewelry",
+      "thumb" : "assets/imgs/categories/jewelry.png"
+    },
+    "-L2PzAKdr54ulzCyTFxv" : {
+      "name" : "Electronics",
+      "thumb" : "assets/imgs/categories/electronics.png"
+    }
+  },
+  "products" : {
+    "-L2Q-EYf2cGliah792Vs" : {
+      "category_id" : "-L2PzAKdr54ulzCyTFxv",
+      "images" : [ "assets/imgs/products/details/projector_thumbs.jpg", "assets/imgs/products/details/projector_thumbs1.jpg", "assets/imgs/products/details/projector_thumbs2.jpg", "assets/imgs/products/details/projector_thumbs3.jpg" ],
+      "name" : "HDMI Mini Projector-White",
+      "price" : 14500,
+      "rating" : 4.8,
+      "sale_price" : 13000,
+      "short_description" : "S912 Android 6.0 TV Box Octa Core 2GB DDR3+16GB WiFi HD Media PlayerFeature.",
+      "thumb" : "assets/imgs/products/projector.jpg"
+    },
+    "-L2QBTcz23h887FWspFh" : {
+      "category_id" : "-L2PzAKdr54ulzCyTFxv",
+      "images" : [ "assets/imgs/products/details/v88_thumbs.jpg", "assets/imgs/products/details/v88_thumbs1.jpg", "assets/imgs/products/details/v88_thumbs2.jpg", "assets/imgs/products/v88.jpg" ],
+      "name" : "Set-top Box Amlogic",
+      "price" : 12400,
+      "rating" : 2.8,
+      "sale_price" : 12000,
+      "short_description" : "1 x Set-top Box Amlogic S905X Quad Core 4K H.265 1GB DDR3 RAM 8GB eMMC ROM 2.4G WiFi PC - Black.",
+      "thumb" : "assets/imgs/products/v88.jpg"
+    },
+    "-L2Une-uS6h-ycieWqr_" : {
+      "category_id" : "-L2PzAKdr54ulzCyTFxv",
+      "images" : [ "assets/imgs/products/B500camera.jpg", "assets/imgs/products/details/B500-camera_thumbs.jpg" ],
+      "name" : "B500camera",
+      "price" : 540,
+      "rating" : 2.8,
+      "sale_price" : 500,
+      "short_description" : "Nikon has officially announced the Nikon D3200 entry-level DSLR, after.",
+      "thumb" : "assets/imgs/products/B500camera.jpg"
+    },
+    "-L2UoM4s0g_JsYGBeCTX" : {
+      "category_id" : "-L2PzAKdr54ulzCyTFxv",
+      "images" : [ "assets/imgs/products/Pro-Steam-Generator-Iron.jpg", "assets/imgs/products/details/Pro-Steam-Generator-Iron_thumbs.jpg", "assets/imgs/products/details/Pro-Steam-Generator-Iron_thumbs1.jpg" ],
+      "name" : "Pro-Steam Generator Iron",
+      "price" : 740,
+      "rating" : 2.8,
+      "sale_price" : 0,
+      "short_description" : "The Russell Hobbs 20581 Steam Generator has been designed to offer maximum results with little effort.",
+      "thumb" : "assets/imgs/products/Pro-Steam-Generator-Iron.jpg"
+    },
+    "-L2V0KCe_R1mL1BiUX3n" : {
+      "category_id" : "-L2Pyxs-PlpO_jmTviFv",
+      "images" : [ "assets/imgs/products/Macbook-Air-13.jpg", "assets/imgs/products/details/Macbook-Air-13_thumbs.jpg" ],
+      "name" : "Macbook Air-13",
+      "price" : 1400,
+      "rating" : 2.8,
+      "sale_price" : 0,
+      "short_description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, qui.",
+      "thumb" : "assets/imgs/products/Macbook-Air-13.jpg"
+    },
+    "-L2V159ieGsZZXOMwMM4" : {
+      "category_id" : "-L2Pyxs-PlpO_jmTviFv",
+      "images" : [ "assets/imgs/products/hp-pavillion-coreI5.jpg", "assets/imgs/products/details/hp-pavillion-coreI5_thumb.jpg", "assets/imgs/products/details/hp-pavillion-coreI5_thumbs.jpg" ],
+      "name" : "HP-Pavillion-core I5",
+      "price" : 1400,
+      "rating" : 2.8,
+      "sale_price" : 0,
+      "short_description" : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quo, qui.",
+      "thumb" : "assets/imgs/products/hp-pavillion-coreI5.jpg"
+    }
+  },
+  "promotions" : {
+    "-L2PTbSep9GI-Qrzv-ZL" : {
+      "thumb" : "assets/imgs/sliders/slider-img-4.png"
+    },
+    "-L2PTnx41VHaAwDcwgvF" : {
+      "thumb" : "assets/imgs/sliders/slider-img-3.png"
+    },
+    "-L2PTwMUd6ma1q064p4X" : {
+      "thumb" : "assets/imgs/sliders/slider-img-5.jpg"
+    },
+    "-L2PTzCTns7da-ZU4tIe" : {
+      "thumb" : "assets/imgs/sliders/slider-img-6.jpg"
+    }
+  }
+}
